@@ -1,0 +1,12 @@
+# Evito ficheros Objeto
+*.o
+*.class
+*.lib
+
+# Archivos de copia de seguridad
+~*
+*.bak
+
+# Contrasenias
+passwd
+.htaccess  
